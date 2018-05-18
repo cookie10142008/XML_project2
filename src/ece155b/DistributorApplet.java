@@ -30,7 +30,7 @@ import java.awt.event.ActionListener;
 import javax.swing.border.LineBorder;
 
 /**
- * @author 林瑋鴻、鍾昀倫
+ * 
  */
 public class DistributorApplet extends JApplet implements ActionListener{
 	public DistributorApplet() {

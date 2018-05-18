@@ -8,7 +8,7 @@ public class Distributor extends Company
 	public static Vector <SellSupply> sellItems;	// Vector of sell items (store many items' info)
 	public static Vector <NeedSupply> needItems;	// Vector of items needed
 	
-	
+	//test
 	
 	public Distributor()
 	{
